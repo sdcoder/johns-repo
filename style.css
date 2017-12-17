@@ -1,0 +1,9 @@
+body {
+    padding:2em;
+    font-family: Verdana, Arial, Helvitica, sans-serif;
+    font-size:1.2em;
+    color: #111;
+}
+p, ul {
+    margin-bottom: 1em;
+}
