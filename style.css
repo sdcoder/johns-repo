@@ -7,3 +7,16 @@ body {
 p, ul {
     margin-bottom: 1em;
 }
+h1 {
+    font-size: 32px;
+}
+h2 {
+    font-size: 24px;
+}
+a:link, a:visited {
+    color:#03c;
+}
+h3 {
+    font-size: 18px;
+    margin-left: 20px;
+}
